@@ -9,10 +9,9 @@
 status](https://www.r-pkg.org/badges/version/DSAIDE)](https://cran.r-project.org/package=DSAIDE)
 [![CRAN
 checks](https://badges.cranchecks.info/worst/DSAIDE.svg)](https://cran.r-project.org/web/checks/check_results_DSAIDE.html)
-[![R-CMD-check](https://github.com/andreashandel/DSAIDE/workflows/R-CMD-check/badge.svg)](https://github.com/andreashandel/DSAIDE/actions)
-[![Coverage
-status](https://codecov.io/gh/andreashandel/DSAIDE/branch/master/graph/badge.svg?token=OGO3sVEcPD)](https://codecov.io/gh/andreashandel/DSAIDE)
-[![test-coverage](https://github.com/andreashandel/DSAIDE/workflows/test-coverage/badge.svg)](https://github.com/andreashandel/DSAIDE/actions)
+<!-- [![R-CMD-check](https://github.com/andreashandel/DSAIDE/workflows/R-CMD-check/badge.svg)](https://github.com/andreashandel/DSAIDE/actions)
+[![Coverage status](https://codecov.io/gh/andreashandel/DSAIDE/branch/master/graph/badge.svg?token=OGO3sVEcPD)](https://codecov.io/gh/andreashandel/DSAIDE)
+[![test-coverage](https://github.com/andreashandel/DSAIDE/workflows/test-coverage/badge.svg)](https://github.com/andreashandel/DSAIDE/actions) -->
 [![metacran monthly
 downloads](https://cranlogs.r-pkg.org/badges/DSAIDE)](https://cran.r-project.org/package=DSAIDE)
 [![metacran
@@ -63,7 +62,7 @@ package [see the *Get Started* tutorial
 - [I published a paper describing the
   package](https://doi.org/10.1371/journal.pcbi.1005642). The package
   has since been updated and changed, but the paper still describes the
-  overall idea and context well.  
+  overall idea and context well.\
 - I regularly teach two courses related to infectious diseases and
   modeling. All materials for those courses [are freely available
   online](https://andreashandel.github.io/IDEMAcourse/).

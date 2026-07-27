@@ -9,6 +9,7 @@
 ^CRAN-RELEASE$
 ^README\.md$
 ^README\.Rmd$
+^README\.html$
 ^cran-comments\.md$
 ^to-do\.md$
 ^codecov\.yml$

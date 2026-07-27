@@ -136,19 +136,12 @@ library('DSAIDE')
 5. comment out the library command again
 
 ### To-do for CRAN release  
-* "by hand" edit the DESCRIPTION file to make sure it's up to date
-* update news.md and cran-comments.md
-* run processing-script to Re-build documentation, vignettes and copy latest versions of simulator functions - see above
-* Run check and make sure no problems occur
-* Sync everything to github
-* Run devtools::check_rhub(), devtools::check_win_release() and devtools::check_win_devel(), devtools::check_mac_release()
-* Do a test run of devtools::release() - fix any remaining issues, then re-run and release
+see instructions in the DSAIRM documentation
+
 
 ### Notes on 'notes'
 * If CRAN check complains about "Undefined global functions or variables" in ggplot2 code. Add those to a globals.R file or inside the menu.R file.
 
-### To manage github actions for CI
-* Run 
 
 
 ### Trouble-shooting

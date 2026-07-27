@@ -1,3 +1,8 @@
+# DSAIDE 1.0.0 (2026-07-27)
+
+* Small bug fixes.
+* Other minor updates and improvements.
+
 # DSAIDE 0.9.6 (2023-08-23)
 
 * Small bug fixes and feature enhancements.

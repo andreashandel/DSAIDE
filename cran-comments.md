@@ -1,33 +1,22 @@
 ## Test environments
 
-* local Windows 11 x86_64, R 4.3.1
-* R-CMD-Check (local, Github actions) 
-* devtools: check_rhub(), check_win_release(), check_win_devel()
+* local Windows 11 x86_64, R 4.6
+* R-CMD-Check (local) 
+* other checks: check_win_release(), check_win_devel()
+
 
 ## R CMD check results
 
-Duration: 1m 25.6s
+Duration: 1m 42.3s
 
-❯ checking installed package size ... NOTE
-    installed size is  5.2Mb
-    sub-directories of 1Mb or more:
-      appinformation   4.1Mb
-
-0 errors ✔ | 0 warnings ✔ | 1 note ✖
-
-R CMD check succeeded
-
-
-## Notes
-
-The documentation for the apps in this package contains diagrams/figures, which is responsible for the directory size.
-
-I changed the email address from my work to my personal one.
+0 errors ✔ | 0 warnings ✔ | 0 notes ✔
 
 
 
 
 ## Submission History
+
+version 1.0.0: small bug fixes and improvements.
 
 version 0.9.6: small bug fixes and feature improvements.
 

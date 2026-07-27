@@ -4,6 +4,10 @@ authors:
   Andreas Handel:
     href: https://www.andreashandel.com
 
+template:
+  bootstrap: 5
+
+
 navbar:
   structure:
     left:
