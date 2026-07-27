@@ -2,6 +2,8 @@
 
 ## DSAIDE 1.0.0 (2026-07-27)
 
+CRAN release: 2026-07-27
+
 - Small bug fixes.
 - Other minor updates and improvements.
 
